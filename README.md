@@ -1,6 +1,6 @@
 # car-rental-and-login-in-java
 This is a project dealing with a car rental system and a login system using java
-Car Rental System
+**Car Rental System**
 
 Project Overview
 
@@ -127,7 +127,8 @@ Cars: Various models of cars with unique number plates.
 
 Customers: A list of customers with names, phone numbers, and IDs.
 
-   #Login System Program Documentaion
+
+   **#Login System Program Documentaion**
    1. Introduction
    This java program shows a simple login system that prompts a user to enter the username and password. The system allows up to three attempts to eneter  the correct credentials. Passwords inpit is displayed with astericks (*) for security.
 
